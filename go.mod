@@ -1,3 +1,3 @@
-module github.com/arthurk/go-example-app
+module github.com/almeidarommel/go-example-app
 
 go 1.16
